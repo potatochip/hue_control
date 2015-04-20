@@ -1,0 +1,11 @@
+import sys
+import nmap
+
+try:
+    nm = nmap.PortScanner()         # instance of nmap.PortScanner
+except nmap.PortScannerError:
+    print('Nmap not found', sys.exc_info()[0])
+    sys.exit(0)
+except:
+    print("Unexpected error:", sys.exc_info()[0])
+    sys.exit(0)

@@ -1,0 +1,300 @@
+2015-03-21 17:06:58,110 INFO     HELLO
+2015-03-23 11:00:29,951 INFO     Attempting to connect to the bridge...
+2015-03-23 11:00:29,952 INFO     Using ip: 192.168.1.110
+2015-03-23 11:00:29,952 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:00:29,952 INFO     Attempting to connect to the bridge...
+2015-03-23 11:00:29,952 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:00:29,953 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:00:29,969 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:40:19,170 INFO     Attempting to connect to the bridge...
+2015-03-23 11:40:19,171 INFO     Using ip: 192.168.1.110
+2015-03-23 11:40:19,172 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:40:19,172 INFO     Attempting to connect to the bridge...
+2015-03-23 11:40:19,172 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:40:19,172 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:40:19,189 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:40:39,440 INFO     Attempting to connect to the bridge...
+2015-03-23 11:40:39,440 INFO     Using ip: 192.168.1.110
+2015-03-23 11:40:39,440 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:40:39,441 INFO     Attempting to connect to the bridge...
+2015-03-23 11:40:39,441 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:40:39,441 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:40:39,444 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:41:04,159 INFO     Attempting to connect to the bridge...
+2015-03-23 11:41:04,160 INFO     Using ip: 192.168.1.110
+2015-03-23 11:41:04,160 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:41:04,160 INFO     Attempting to connect to the bridge...
+2015-03-23 11:41:04,160 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:41:04,160 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:41:04,162 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:44:07,686 INFO     Attempting to connect to the bridge...
+2015-03-23 11:44:07,686 INFO     Using ip: 192.168.1.110
+2015-03-23 11:44:07,687 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:44:07,687 INFO     Attempting to connect to the bridge...
+2015-03-23 11:44:07,687 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:44:07,687 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:44:07,697 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:45:19,733 INFO     Attempting to connect to the bridge...
+2015-03-23 11:45:19,734 INFO     Using ip: 192.168.1.110
+2015-03-23 11:45:19,734 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:45:19,735 INFO     Attempting to connect to the bridge...
+2015-03-23 11:45:19,735 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:45:19,735 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:45:19,744 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:46:12,460 INFO     Attempting to connect to the bridge...
+2015-03-23 11:46:12,461 INFO     Using ip: 192.168.1.110
+2015-03-23 11:46:12,461 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:46:12,462 INFO     Attempting to connect to the bridge...
+2015-03-23 11:46:12,462 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:46:12,462 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:46:12,475 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:46:12,680 DEBUG    {'on': True}
+2015-03-23 11:46:12,682 DEBUG    PUT /api/68eabd23070787f6ee71a01effa45f/groups/2/action {"on": true}
+2015-03-23 11:46:12,697 DEBUG    [[{'success': {'/groups/2/action/on': True}}]]
+2015-03-23 11:46:12,697 DEBUG    {'bri': 219}
+2015-03-23 11:46:12,698 DEBUG    PUT /api/68eabd23070787f6ee71a01effa45f/groups/2/action {"bri": 219}
+2015-03-23 11:46:12,716 DEBUG    [[{'success': {'/groups/2/action/bri': 219}}]]
+2015-03-23 11:46:12,716 DEBUG    4274 K is 234 mireds
+2015-03-23 11:46:12,716 DEBUG    {'ct': 234}
+2015-03-23 11:46:12,718 DEBUG    PUT /api/68eabd23070787f6ee71a01effa45f/groups/2/action {"ct": 234}
+2015-03-23 11:46:12,737 DEBUG    [[{'success': {'/groups/2/action/ct': 234}}]]
+2015-03-23 11:51:55,974 INFO     Attempting to connect to the bridge...
+2015-03-23 11:51:55,975 INFO     Using ip: 192.168.1.110
+2015-03-23 11:51:55,975 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:51:55,975 INFO     Attempting to connect to the bridge...
+2015-03-23 11:51:55,976 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:51:55,976 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:51:55,992 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:53:50,188 INFO     Attempting to connect to the bridge...
+2015-03-23 11:53:50,189 INFO     Using ip: 192.168.1.110
+2015-03-23 11:53:50,189 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:53:50,190 INFO     Attempting to connect to the bridge...
+2015-03-23 11:53:50,190 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:53:50,190 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:53:50,215 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:53:50,420 DEBUG    {'on': True}
+2015-03-23 11:53:50,423 DEBUG    PUT /api/68eabd23070787f6ee71a01effa45f/groups/2/action {"on": true}
+2015-03-23 11:53:50,437 DEBUG    [[{'success': {'/groups/2/action/on': True}}]]
+2015-03-23 11:53:50,437 DEBUG    {'bri': 219}
+2015-03-23 11:53:50,439 DEBUG    PUT /api/68eabd23070787f6ee71a01effa45f/groups/2/action {"bri": 219}
+2015-03-23 11:53:50,455 DEBUG    [[{'success': {'/groups/2/action/bri': 219}}]]
+2015-03-23 11:53:50,455 DEBUG    4274 K is 234 mireds
+2015-03-23 11:53:50,455 DEBUG    {'ct': 234}
+2015-03-23 11:53:50,457 DEBUG    PUT /api/68eabd23070787f6ee71a01effa45f/groups/2/action {"ct": 234}
+2015-03-23 11:53:50,473 DEBUG    [[{'success': {'/groups/2/action/ct': 234}}]]
+2015-03-23 11:53:50,473 INFO     Aaron got home at 2015-03-23 11:53
+2015-03-23 11:55:42,228 INFO     Attempting to connect to the bridge...
+2015-03-23 11:55:42,228 INFO     Using ip: 192.168.1.110
+2015-03-23 11:55:42,229 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:55:42,229 INFO     Attempting to connect to the bridge...
+2015-03-23 11:55:42,229 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:55:42,229 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:55:42,239 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:56:02,600 INFO     Attempting to connect to the bridge...
+2015-03-23 11:56:02,601 INFO     Using ip: 192.168.1.110
+2015-03-23 11:56:02,601 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:56:02,601 INFO     Attempting to connect to the bridge...
+2015-03-23 11:56:02,601 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:56:02,601 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:56:02,609 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 11:56:54,678 INFO     Attempting to connect to the bridge...
+2015-03-23 11:56:54,679 INFO     Using ip: 192.168.1.110
+2015-03-23 11:56:54,679 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:56:54,679 INFO     Attempting to connect to the bridge...
+2015-03-23 11:56:54,679 INFO     Using ip from config: 192.168.1.110
+2015-03-23 11:56:54,679 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 11:56:54,687 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 12:00:41,966 INFO     Attempting to connect to the bridge...
+2015-03-23 12:00:41,967 INFO     Using ip: 192.168.1.110
+2015-03-23 12:00:41,967 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 12:00:41,967 INFO     Attempting to connect to the bridge...
+2015-03-23 12:00:41,967 INFO     Using ip from config: 192.168.1.110
+2015-03-23 12:00:41,967 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 12:00:41,976 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 12:02:11,967 INFO     Attempting to connect to the bridge...
+2015-03-23 12:02:11,968 INFO     Using ip: 192.168.1.110
+2015-03-23 12:02:11,968 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 12:02:11,969 INFO     Attempting to connect to the bridge...
+2015-03-23 12:02:11,969 INFO     Using ip from config: 192.168.1.110
+2015-03-23 12:02:11,969 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 12:02:11,984 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 12:03:07,630 INFO     Attempting to connect to the bridge...
+2015-03-23 12:03:07,630 INFO     Using ip: 192.168.1.110
+2015-03-23 12:03:07,631 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 12:03:07,631 INFO     Attempting to connect to the bridge...
+2015-03-23 12:03:07,631 INFO     Using ip from config: 192.168.1.110
+2015-03-23 12:03:07,631 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-23 12:03:07,640 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-23 12:03:07,844 INFO     Called the weather station.
+2015-03-25 11:53:26,735 INFO     Attempting to connect to the bridge...
+2015-03-25 11:53:26,736 INFO     Using ip: 192.168.1.110
+2015-03-25 11:53:26,736 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 11:53:26,736 INFO     Attempting to connect to the bridge...
+2015-03-25 11:53:26,736 INFO     Using ip from config: 192.168.1.110
+2015-03-25 11:53:26,737 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 11:53:26,741 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 11:53:26,945 DEBUG    {"1":{"name":"Bedroom","lights":["1","2","3"],"type":"LightGroup","action": {"on":true,"bri":254,"hue":14910,"sat":144,"effect":"none","xy":[0.4596,0.4105],"ct":369,"colormode":"xy"}},"2":{"name":"Main Room","lights":["4","5","6","8"],"type":"LightGroup","action": {"on":true,"bri":219,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}},"3":{"name":"Nightlight","lights":["1","4"],"type":"LightGroup","action": {"on":true,"bri":216,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}}}
+2015-03-25 12:02:31,703 INFO     Attempting to connect to the bridge...
+2015-03-25 12:02:31,704 INFO     Using ip: 192.168.1.110
+2015-03-25 12:02:31,704 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:02:31,705 INFO     Attempting to connect to the bridge...
+2015-03-25 12:02:31,705 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:02:31,705 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:02:31,719 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:05:14,945 INFO     Attempting to connect to the bridge...
+2015-03-25 12:05:14,946 INFO     Using ip: 192.168.1.110
+2015-03-25 12:05:14,947 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:05:14,947 INFO     Attempting to connect to the bridge...
+2015-03-25 12:05:14,947 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:05:14,947 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:05:14,960 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:05:15,164 INFO     Called the weather station.
+2015-03-25 12:05:59,446 INFO     Attempting to connect to the bridge...
+2015-03-25 12:05:59,447 INFO     Using ip: 192.168.1.110
+2015-03-25 12:05:59,447 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:05:59,447 INFO     Attempting to connect to the bridge...
+2015-03-25 12:05:59,447 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:05:59,448 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:05:59,462 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:05:59,667 INFO     Called the weather station.
+2015-03-25 12:12:03,403 INFO     Attempting to connect to the bridge...
+2015-03-25 12:12:03,405 INFO     Using ip: 192.168.1.110
+2015-03-25 12:12:03,405 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:12:03,405 INFO     Attempting to connect to the bridge...
+2015-03-25 12:12:03,405 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:12:03,405 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:12:03,416 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:12:03,621 INFO     Called the weather station.
+2015-03-25 12:12:24,801 INFO     Attempting to connect to the bridge...
+2015-03-25 12:12:24,801 INFO     Using ip: 192.168.1.110
+2015-03-25 12:12:24,801 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:12:24,801 INFO     Attempting to connect to the bridge...
+2015-03-25 12:12:24,802 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:12:24,802 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:12:24,813 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:12:25,018 INFO     Called the weather station.
+2015-03-25 12:12:28,737 INFO     Attempting to connect to the bridge...
+2015-03-25 12:12:28,737 INFO     Using ip: 192.168.1.110
+2015-03-25 12:12:28,738 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:12:28,738 INFO     Attempting to connect to the bridge...
+2015-03-25 12:12:28,738 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:12:28,738 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:12:28,746 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:12:28,950 INFO     Called the weather station.
+2015-03-25 12:13:10,800 INFO     Attempting to connect to the bridge...
+2015-03-25 12:13:10,800 INFO     Using ip: 192.168.1.110
+2015-03-25 12:13:10,800 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:13:10,800 INFO     Attempting to connect to the bridge...
+2015-03-25 12:13:10,800 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:13:10,800 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:13:10,807 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:13:11,012 INFO     Called the weather station.
+2015-03-25 12:14:58,732 INFO     Attempting to connect to the bridge...
+2015-03-25 12:14:58,733 INFO     Using ip: 192.168.1.110
+2015-03-25 12:14:58,733 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:14:58,735 INFO     Attempting to connect to the bridge...
+2015-03-25 12:14:58,735 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:14:58,735 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:14:58,740 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:14:58,944 DEBUG    {"1":{"name":"Bedroom","lights":["1","2","3"],"type":"LightGroup","action": {"on":true,"bri":254,"hue":14910,"sat":144,"effect":"none","xy":[0.4596,0.4105],"ct":369,"colormode":"xy"}},"2":{"name":"Main Room","lights":["4","5","6","8"],"type":"LightGroup","action": {"on":true,"bri":219,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}},"3":{"name":"Nightlight","lights":["1","4"],"type":"LightGroup","action": {"on":true,"bri":216,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}}}
+2015-03-25 12:17:05,128 INFO     Attempting to connect to the bridge...
+2015-03-25 12:17:05,129 INFO     Using ip: 192.168.1.110
+2015-03-25 12:17:05,129 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:17:05,130 INFO     Attempting to connect to the bridge...
+2015-03-25 12:17:05,130 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:17:05,130 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:17:05,134 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:17:05,339 DEBUG    {"1":{"name":"Bedroom","lights":["1","2","3"],"type":"LightGroup","action": {"on":true,"bri":254,"hue":14910,"sat":144,"effect":"none","xy":[0.4596,0.4105],"ct":369,"colormode":"xy"}},"2":{"name":"Main Room","lights":["4","5","6","8"],"type":"LightGroup","action": {"on":true,"bri":219,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}},"3":{"name":"Nightlight","lights":["1","4"],"type":"LightGroup","action": {"on":true,"bri":216,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}}}
+2015-03-25 12:18:48,008 INFO     Attempting to connect to the bridge...
+2015-03-25 12:18:48,009 INFO     Using ip: 192.168.1.110
+2015-03-25 12:18:48,009 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:18:48,010 INFO     Attempting to connect to the bridge...
+2015-03-25 12:18:48,010 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:18:48,010 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:18:48,025 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:36:17,383 INFO     Attempting to connect to the bridge...
+2015-03-25 12:36:17,384 INFO     Using ip: 192.168.1.110
+2015-03-25 12:36:17,384 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:36:17,384 INFO     Attempting to connect to the bridge...
+2015-03-25 12:36:17,384 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:36:17,385 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:36:17,401 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 12:36:28,371 INFO     Called the weather station.
+2015-03-25 12:44:27,924 INFO     Attempting to connect to the bridge...
+2015-03-25 12:44:27,925 INFO     Using ip: 192.168.1.110
+2015-03-25 12:44:27,925 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:44:27,925 INFO     Attempting to connect to the bridge...
+2015-03-25 12:44:27,925 INFO     Using ip from config: 192.168.1.110
+2015-03-25 12:44:27,925 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 12:44:27,933 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 13:03:21,291 INFO     Attempting to connect to the bridge...
+2015-03-25 13:03:21,292 INFO     Using ip: 192.168.1.110
+2015-03-25 13:03:21,292 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 13:03:21,295 INFO     Attempting to connect to the bridge...
+2015-03-25 13:03:21,295 INFO     Using ip from config: 192.168.1.110
+2015-03-25 13:03:21,295 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-25 13:03:21,300 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-25 13:03:21,504 DEBUG    {"1":{"name":"Bedroom","lights":["1","2","3"],"type":"LightGroup","action": {"on":true,"bri":254,"hue":14910,"sat":144,"effect":"none","xy":[0.4596,0.4105],"ct":369,"colormode":"xy"}},"2":{"name":"Main Room","lights":["4","5","6","8"],"type":"LightGroup","action": {"on":true,"bri":219,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}},"3":{"name":"Nightlight","lights":["1","4"],"type":"LightGroup","action": {"on":true,"bri":216,"hue":33848,"sat":44,"effect":"none","xy":[0.3693,0.3695],"ct":234,"colormode":"xy"}}}
+2015-03-26 15:07:51,333 INFO     Attempting to connect to the bridge...
+2015-03-26 15:07:51,334 INFO     Using ip: 192.168.1.110
+2015-03-26 15:07:51,334 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:07:51,335 INFO     Attempting to connect to the bridge...
+2015-03-26 15:07:51,335 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:07:51,335 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:07:51,351 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:08:05,229 INFO     Attempting to connect to the bridge...
+2015-03-26 15:08:05,229 INFO     Using ip: 192.168.1.110
+2015-03-26 15:08:05,229 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:08:05,229 INFO     Attempting to connect to the bridge...
+2015-03-26 15:08:05,230 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:08:05,230 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:08:05,238 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:08:13,847 INFO     Attempting to connect to the bridge...
+2015-03-26 15:08:13,848 INFO     Using ip: 192.168.1.110
+2015-03-26 15:08:13,848 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:08:13,848 INFO     Attempting to connect to the bridge...
+2015-03-26 15:08:13,848 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:08:13,848 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:08:13,855 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:08:18,750 INFO     Attempting to connect to the bridge...
+2015-03-26 15:08:18,750 INFO     Using ip: 192.168.1.110
+2015-03-26 15:08:18,750 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:08:18,750 INFO     Attempting to connect to the bridge...
+2015-03-26 15:08:18,750 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:08:18,750 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:08:18,756 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:09:29,551 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:29,553 INFO     Using ip: 192.168.1.110
+2015-03-26 15:09:29,553 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:29,553 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:29,553 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:09:29,554 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:29,563 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:09:32,726 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:32,726 INFO     Using ip: 192.168.1.110
+2015-03-26 15:09:32,726 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:32,726 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:32,727 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:09:32,727 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:32,733 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:09:40,385 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:40,385 INFO     Using ip: 192.168.1.110
+2015-03-26 15:09:40,386 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:40,386 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:40,386 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:09:40,386 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:40,393 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:09:49,167 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:49,168 INFO     Using ip: 192.168.1.110
+2015-03-26 15:09:49,168 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:49,168 INFO     Attempting to connect to the bridge...
+2015-03-26 15:09:49,168 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:09:49,168 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:09:49,174 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None
+2015-03-26 15:28:04,842 INFO     Attempting to connect to the bridge...
+2015-03-26 15:28:04,843 INFO     Using ip: 192.168.1.110
+2015-03-26 15:28:04,843 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:28:04,843 INFO     Attempting to connect to the bridge...
+2015-03-26 15:28:04,843 INFO     Using ip from config: 192.168.1.110
+2015-03-26 15:28:04,843 INFO     Using username from config: 68eabd23070787f6ee71a01effa45f
+2015-03-26 15:28:04,852 DEBUG    GET /api/68eabd23070787f6ee71a01effa45f/groups/ None

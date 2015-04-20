@@ -1,0 +1,12 @@
+{
+    "aaron": {
+        "device_id": "00:61:71:CC:52:C8",
+        "name": "Aaron",
+        "status": "away"
+    },
+    "danielle": {
+        "device_id": "90:FD:61:A4:F3:DB",
+        "name": "Danielle",
+        "status": "away"
+    }
+}
